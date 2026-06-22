@@ -1,0 +1,8 @@
+venv/
+.venv/
+**pycache**/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+Thumbs.db
+desktop.ini

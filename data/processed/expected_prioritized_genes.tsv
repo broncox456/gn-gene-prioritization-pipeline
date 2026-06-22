@@ -1,0 +1,11 @@
+gene	log2FC	padj	renal_relevance	classification	renal_weight	priority_score
+IL6	3.5	0.0002	medium	upregulated_significant	2	34825.8706
+NPHS1	2.6	0.0008	high	upregulated_significant	3	9737.8277
+COL4A4	-2.8	0.0015	high	downregulated_significant	3	5596.2692
+TNF	2.9	0.002	medium	upregulated_significant	2	2898.5507
+CXCL8	3.1	0.003	medium	upregulated_significant	2	2065.978
+MMP9	2.4	0.008	medium	upregulated_significant	2	599.925
+WT1	1.9	0.015	high	upregulated_significant	3	379.9747
+TGFB1	1.7	0.02	high	upregulated_significant	3	254.9873
+UMOD	-2.0	0.025	high	downregulated_significant	3	239.9904
+VEGFA	1.5	0.03	medium	upregulated_significant	2	99.9967

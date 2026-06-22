@@ -1,0 +1,11 @@
+gene	log2FC	padj	priority_score	classification	biological_process	renal_interpretation	clinical_relevance
+IL6	3.5	0.0002	34825.8706	upregulated_significant	Inflammatory activation and cytokine signaling	IL6 is associated with inflammatory activity that may contribute to glomerular injury.	Supports inflammatory component of glomerulonephritis.
+NPHS1	2.6	0.0008	9737.8277	upregulated_significant	Podocyte integrity	Encodes nephrin, essential for filtration barrier.	Supports podocyte injury relevance.
+COL4A4	-2.8	0.0015	5596.2692	downregulated_significant	Basement membrane structure	Key structural protein in glomerular basement membrane.	Suggests structural involvement in disease.
+TNF	2.9	0.002	2898.5507	upregulated_significant	Pro-inflammatory signaling	TNF participates in inflammatory amplification and renal damage.	Reinforces inflammation in disease progression.
+CXCL8	3.1	0.003	2065.978	upregulated_significant	Not curated	Requires literature review	Exploratory interpretation
+MMP9	2.4	0.008	599.925	upregulated_significant	Not curated	Requires literature review	Exploratory interpretation
+WT1	1.9	0.015	379.9747	upregulated_significant	Not curated	Requires literature review	Exploratory interpretation
+TGFB1	1.7	0.02	254.9873	upregulated_significant	Not curated	Requires literature review	Exploratory interpretation
+UMOD	-2.0	0.025	239.9904	downregulated_significant	Not curated	Requires literature review	Exploratory interpretation
+VEGFA	1.5	0.03	99.9967	upregulated_significant	Not curated	Requires literature review	Exploratory interpretation
