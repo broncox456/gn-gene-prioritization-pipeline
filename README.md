@@ -27,7 +27,7 @@ Los datasets empleados están inspirados en estructuras utilizadas habitualmente
 
 **GitHub:**
 
-https://github.com/USUARIO/NOMBRE-DEL-REPOSITORIO
+https://github.com/broncox456/gn-gene-prioritization-pipeline
 
 Este repositorio acompaña la Memoria de Prácticas Académicas Externas del Máster Universitario en Bioinformática de la Universidad Alfonso X el Sabio (UAX).
 
